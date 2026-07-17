@@ -1,0 +1,12 @@
+Remote Work Policy
+
+1. Employees may work remotely for up to three days per week with manager approval.
+2. Employees must be available during core business hours from 10:00 AM to 4:00 PM.
+3. Company-issued laptops must be used when working remotely.
+4. Public Wi-Fi networks must not be used unless connected through the corporate VPN.
+5. Confidential company information must not be stored on personal devices.
+6. Employees are responsible for maintaining a secure working environment at home.
+7. Managers may require employees to attend office meetings when business needs arise.
+8. Remote work arrangements are reviewed every six months.
+9. Internet connectivity issues should be reported immediately to the IT Service Desk.
+10. Failure to comply with security requirements may result in suspension of remote work privileges.

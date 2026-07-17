@@ -1,0 +1,12 @@
+Information Security Policy
+
+1. Employees must use multi-factor authentication for all corporate applications.
+2. Passwords must contain at least 12 characters and should not be shared.
+3. Confidential company information must only be stored in approved corporate systems.
+4. USB storage devices are prohibited unless explicitly approved by the IT Security team.
+5. Suspicious emails must be reported using the phishing reporting tool.
+6. Software may only be installed through approved IT channels.
+7. Employees must lock their computers whenever they leave their desks.
+8. Security incidents must be reported within one hour of discovery.
+9. Customer data must be encrypted during storage and transmission.
+10. Annual security awareness training is mandatory for all employees.
